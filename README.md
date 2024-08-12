@@ -2,7 +2,7 @@
 > ADOFAI Map Optimization Tool      
 > 얼불춤 맵 최적화 도구
 
-### 이 프로그램은 얼불춤 맵을 최적화 및 경량화하여ㅐ 플레이 경험을 증진시키기 위해 제작되었습니다.   
+### 이 프로그램은 얼불춤 맵을 최적화 및 경량화하여 플레이 경험을 증진시키기 위해 제작되었습니다.   
 ### This program was developed to improve the game-playing experience by change visual effects to video.   
 
 현재는 테스트 버전으로, 많은 버그와 오류를 포함할 수 있습니다. 버그 제보는 프로그램 개발에 도움이 됩니다.    
